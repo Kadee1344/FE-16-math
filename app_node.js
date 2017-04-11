@@ -18,7 +18,7 @@ var server = http.createServer(function(req, res) {
     require('./mult-node').get(req, res);
   } else {
     res.writeHead(404, { 'Content-Type': 'text/plain' });
-    res.end('vad URL' + req.url);
+    res.end('Bad URL ' + req.url);
   }
 });
 

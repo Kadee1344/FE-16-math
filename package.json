@@ -1,0 +1,19 @@
+{
+  "name": "project_math",
+  "version": "1.0.0",
+  "description": "Hello!",
+  "main": "app_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadee1344/FE-16-math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadee1344/FE-16-math/issues"
+  },
+  "homepage": "https://github.com/Kadee1344/FE-16-math#readme"
+}
